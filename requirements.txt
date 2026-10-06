@@ -1,0 +1,4 @@
+bcrypt
+pytest
+flake8
+bandit
